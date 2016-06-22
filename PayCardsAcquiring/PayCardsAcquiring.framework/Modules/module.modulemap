@@ -1,0 +1,6 @@
+framework module PayCardsAcquiring {
+  umbrella header "PayCardsAcquiring.h"
+
+  export *
+  module * { export * }
+}
